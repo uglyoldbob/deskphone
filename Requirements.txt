@@ -1,0 +1,5 @@
+* mono audio
+* typical handset with microphone and speaker
+* hardware must be capable of 44khz audio, with oversampling to reduce noise
+* poe capable
+* bluetooth to link to phone (like a car radio would)
